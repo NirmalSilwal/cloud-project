@@ -1,40 +1,30 @@
 {
   "main": {
-    "name": "Mohamed Khaled Ghaffari",
-    "occupation": "Free Lancer @khaledghaffarii",
-    "description": "Web Developer .",
-    "image": "khaledghaffarii.jpeg",
-    "bio": "My name is Khaled,Graduated from the Higher School of Technology in Tunis, recently web developer. ready to integrate a company where I will be able to live daily experience and improve my knowledge by integrating a professional team.",
+    "name": "Nirmal Silwal",
+    "occupation": "Software Developer",
+    "description": "Java Developer",
+    "image": "nirmalprofile.jpg",
+    "bio": "A passionate Software Engineer having an experience in Java, SpringBoot, Hiberate, Angular, React.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "med.khaledghaffarii@gmail.com",
-    "phone": "+216 54 09 19 84",
+    "email": "nirmaldeepsil.11@gmail.com",
+    "phone": "641-819-2514",
     "address": {
-      "street": "El Menzah 1 ",
-      "city": "Tunis ",
-      "state": "Tunisia",
-      "zip": "1004"
+      "street": "Spring Valley Rd",
+      "city": "Dallas ",
+      "state": "Texas",
+      "zip": "75001"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1srIkSh2LF7sPyMZQRyLH3H1ljzzYRaZt/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1SGJEMJmRO5rZ2UfuWSNI7LoSU2QKZsrg/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/profile.php?id=100008998810065",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/mohamed-khaled-ghaffari-850a4a167/",
+        "url": "https://www.linkedin.com/in/nirmal-silwal/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/khaledghaffari/?hl=fr",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/khaledghaffarii",
+        "url": "https://github.com/NirmalSilwal",
         "className": "fa fa-github"
       }
     ]
@@ -104,7 +94,6 @@
         "name": "Node js  , Express",
         "level": "40%"
       }
-      
     ]
   },
   "portfolio": {
@@ -156,7 +145,8 @@
         "category": "Type Script ",
         "image": "typescript.png",
         "url": "https://drag-and-drop-seven.vercel.app"
-      },  {
+      },
+      {
         "title": "Todo List ",
         "category": "React.js && firebase",
         "image": "to do list.png",
