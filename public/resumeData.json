@@ -30,127 +30,127 @@
     ]
   },
   "resume": {
-    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage": "Technically astute software developer with over 2 years of experience developing and deploying complex enterprise architecture using Java, Spring Boot, Restful and AWS Cloud technologies",
     "education": [
       {
-        "school": "3wAcademy",
-        "degree": "full stack web development, JavaScript, PHP",
-        "graduated": "November 2019",
-        "description": "Graduated with Distinction"
+        "school": "Maharishi International University",
+        "degree": "Master in Computer Science",
+        "graduated": "June 2024",
+        "description": "Major courses taken - Software Architecture, Algorithms, Web Application Architecture, Enterprise Architecture, Cloud Computing, DBMS"
       },
       {
-        "school": "Higher Institute of Tunis Medical Technology",
-        "degree": "Bachelor's Degree, Embedded System",
+        "school": "Dr. A. P. J. Abdul Kalam Technical University",
+        "degree": "Bachelor's Degree, Computer Engineering",
         "graduated": "June 2018",
-        "description": "Graduated with Distinction"
+        "description": "Graduated with Honor, BTECH CSE"
       }
     ],
     "work": [
       {
-        "company": "DevNet",
-        "title": " internship-ReactJs/Laravel",
-        "years": "june 2020 - December 2020",
-        "description": "participation in a web application: jawi.tn: technologies used: git / gitLab frontend part: css, bootstrap 4 react, react-router javaScript, Jquery."
+        "company": "AWS",
+        "title": "Software Development Engineer",
+        "years": "May 2023 - Present",
+        "description": "Part of AWS Blu Age - Migration of legacy application based on COBOL, AS400 to modern application in Java, SpringBoot, Angular"
       },
       {
-        "company": "EPPM",
-        "title": "Mobil App Developer",
-        "years": "January 2021 - Mai 2021",
-        "description": "Creation of a Mobile Dashboard Application for the company, technologies used: git / gitLab frontend part: css, react-native-cli, javaScript. backend part : nodejs ,express , Mysql"
+        "company": "LearningMate",
+        "title": "Software Engineer",
+        "years": "April 2019 - Jan 2020",
+        "description": "Automated image caption generation process using Deep Learning, AWS Sagemaker. Developed various automation tools using Python."
       },
       {
-        "company": "Shadows-me",
-        "title": "React and React Native Developer, remote",
-        "years": "Since August 2021",
-        "description": "Development of a chocolate mobile application for a DALLA & HALLA store; tools: react-native ,tailwind css and ﬁrebase development of a fashion web application for the Saudi company Loom; tools: Nextjs ,tailwind css and ﬁrebase"
+        "company": "TechMentro",
+        "title": "Junior Java Developer",
+        "years": "June 2017 - Nov 2017",
+        "description": "Internship : Developed web application using Java, SpringBoot and Hibernate."
       }
     ],
     "skills": [
       {
-        "name": "HTML,CSS",
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "SpringBoot, Hibernate",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "Postgres, MySql",
+        "level": "85%"
+      },
+      {
+        "name": "Data Structures, Algorithms",
+        "level": "83%"
+      },
+      {
+        "name": "AWS cloud",
+        "level": "82%"
+      },
+      {
+        "name": "Python, Deep learning, Machine Learning",
         "level": "80%"
       },
       {
-        "name": "TailwindCss ,Bootstrap",
-        "level": "70%"
+        "name": "HTML,CSS",
+        "level": "80%"
       },
       {
         "name": "JavaScript , Jquery",
         "level": "60%"
       },
       {
-        "name": "ReactJs , React-Native , NextJs",
-        "level": "60%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "Firebase,MySql",
-        "level": "50%"
-      },
-      {
-        "name": "Node js  , Express",
-        "level": "40%"
+        "name": "ReactJs , Angular",
+        "level": "55%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Tinder Clone",
-        "category": "Tinder Clone with MERN stack",
-        "image": "tinder.jpg",
-        "url": "https://tinder-clone-65889.web.app/"
+        "title": "System Design repo",
+        "category": "System Design repo",
+        "image": "systemDesign.png",
+        "url": "https://github.com/NirmalSilwal/system-design-resources"
       },
       {
-        "title": "Netflix Clone",
+        "title": "Data Structure and Algorithms",
         "category": "clone Netflix with ReactJs",
-        "image": "netflix.jpg",
+        "image": "dataStructures.jpg",
         "url": "https://netflix-clone-2b64c.web.app/"
       },
       {
-        "title": "Google Clone",
-        "category": "clone Google with NextJs",
-        "image": "google.jpg",
-        "url": "https://google-2-0-yt-fawn.vercel.app/"
+        "title": "Facebook Clone",
+        "category": "clone Facebook with React",
+        "image": "facebook.jpg",
+        "url": "https://github.com/NirmalSilwal/facebook-clone"
       },
       {
-        "title": "Disney-plus Clone",
-        "category": "Disney-plus with NextJs",
-        "image": "disney1.png",
-        "url": "https://disneyplus-clone-f8077.web.app/"
+        "title": "Deep Learning Projects",
+        "category": "AI",
+        "image": "deepLearning.png",
+        "url": "https://github.com/NirmalSilwal/UDACITY-Deep-Learning-Nanodegree-PROJECTS"
       },
       {
-        "title": "Spotify Clone",
-        "category": "Spotify with NextJs & TailwindCss ",
-        "image": "spotify.png",
-        "url": "https://spotify-clone-2ppq8o1ri-khaledghaffarii.vercel.app"
+        "title": "Dice Game",
+        "category": "front end",
+        "image": "facebook.jpg",
+        "url": "https://github.com/NirmalSilwal/facebook-clone"
       },
       {
-        "title": "Amazon Clone",
-        "category": "Amazon with NextJs & TailwindCss ",
-        "image": "amazon.png",
-        "url": "https://amazon-clone-kappa-six.vercel.app"
+        "title": "Portfolio Website",
+        "category": "front end",
+        "image": "portfolio.jpg",
+        "url": "https://nirmalsilwal.github.io/#/"
       },
       {
-        "title": "Covid 19 Tracker",
-        "category": "React.js ",
-        "image": "covid.jpg",
-        "url": "https://covid-19-tracker-pearl-omega.vercel.app"
-      },
-      {
-        "title": "Drag And Drop ",
-        "category": "Type Script ",
-        "image": "typescript.png",
-        "url": "https://drag-and-drop-seven.vercel.app"
-      },
-      {
-        "title": "Todo List ",
-        "category": "React.js && firebase",
-        "image": "to do list.png",
-        "url": "https://todo-ixdnqxxm7-khaledghaffarii.vercel.app"
+        "title": "Drum Kit",
+        "category": "front end",
+        "image": "deepLearning.png",
+        "url": "https://github.com/NirmalSilwal/UDACITY-Deep-Learning-Nanodegree-PROJECTS"
       }
     ]
   },
