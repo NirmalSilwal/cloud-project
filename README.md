@@ -1,8 +1,8 @@
 # `Nirmal Silwal ReactJS Portfolio Template`
 
-![ReactJS Resume Website Template](resume-ghaffarii.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](https://github.com/NirmalSilwal/cloud-project/blob/master/homepage.jpg)
 
-## <a href="https://nirmalsilwal.live/" target="_blank">LIVE DEMO</a>
+## <a href="https://nirmalsilwal.live/" target="_blank">Live Demo</a>
 
 ## Description
 
