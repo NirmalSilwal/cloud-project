@@ -3,8 +3,8 @@
     "name": "Nirmal Silwal",
     "occupation": "Software Developer",
     "description": "Java Developer",
-    "image": "nirmalprofile.jpg",
-    "bio": "A passionate Software Engineer having an experience in Java, SpringBoot, Hiberate, Angular, React.",
+    "image": "Nirmal.jpg",
+    "bio": "A passionate Software Engineer having an experience in Java, SpringBoot, Hiberate, AWS, Python, DeepLearning, Machine Learning, Angular, React.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "nirmaldeepsil.11@gmail.com",
     "phone": "641-819-2514",
@@ -14,7 +14,7 @@
       "state": "Texas",
       "zip": "75001"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://nirmalsilwal.live/",
     "resumedownload": "https://drive.google.com/file/d/1SGJEMJmRO5rZ2UfuWSNI7LoSU2QKZsrg/view?usp=sharing",
     "social": [
       {
@@ -40,7 +40,7 @@
       },
       {
         "school": "Dr. A. P. J. Abdul Kalam Technical University",
-        "degree": "Bachelor's Degree, Computer Engineering",
+        "degree": "Bachelor Degree, Computer Engineering",
         "graduated": "June 2018",
         "description": "Graduated with Honor, BTECH CSE"
       }
@@ -50,13 +50,13 @@
         "company": "AWS",
         "title": "Software Development Engineer",
         "years": "May 2023 - Present",
-        "description": "Part of AWS Blu Age - Migration of legacy application based on COBOL, AS400 to modern application in Java, SpringBoot, Angular"
+        "description": "Working in AWS Blu Age for the migration of legacy application for financial institution based on COBOL, AS400 to modern application in Java, SpringBoot, Angular."
       },
       {
         "company": "LearningMate",
         "title": "Software Engineer",
         "years": "April 2019 - Jan 2020",
-        "description": "Automated image caption generation process using Deep Learning, AWS Sagemaker. Developed various automation tools using Python."
+        "description": "Automated image caption generation process using Deep Learning, AWS Sagemaker helping visually impaired person with learning disability to understand the description of images who rely on screen readers, taking in consideration Accessibility motto \"right to information\". Developed various automation tools using Python."
       },
       {
         "company": "TechMentro",
@@ -118,9 +118,9 @@
       },
       {
         "title": "Data Structure and Algorithms",
-        "category": "clone Netflix with ReactJs",
+        "category": "DSA for interview preparation",
         "image": "dataStructures.jpg",
-        "url": "https://netflix-clone-2b64c.web.app/"
+        "url": "https://github.com/NirmalSilwal/Data-Structure-and-Algorithm-Java-interview-kit"
       },
       {
         "title": "Facebook Clone",
@@ -131,26 +131,32 @@
       {
         "title": "Deep Learning Projects",
         "category": "AI",
-        "image": "deepLearning.png",
+        "image": "deepLearning.jpg",
         "url": "https://github.com/NirmalSilwal/UDACITY-Deep-Learning-Nanodegree-PROJECTS"
       },
       {
         "title": "Dice Game",
-        "category": "front end",
-        "image": "facebook.jpg",
-        "url": "https://github.com/NirmalSilwal/facebook-clone"
-      },
-      {
-        "title": "Portfolio Website",
-        "category": "front end",
-        "image": "portfolio.jpg",
-        "url": "https://nirmalsilwal.github.io/#/"
+        "category": "roll a dice",
+        "image": "diceGame.png",
+        "url": "https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Dicee%20Game/dicee.html"
       },
       {
         "title": "Drum Kit",
-        "category": "front end",
-        "image": "deepLearning.png",
-        "url": "https://github.com/NirmalSilwal/UDACITY-Deep-Learning-Nanodegree-PROJECTS"
+        "category": "lets play some music!",
+        "image": "drumKit.png",
+        "url": "https://nirmalsilwal.github.io/webDevLearning/Angela%20Course/Web%20Development/Drum_Kit/index.html"
+      },
+      {
+        "title": "Portfolio Website",
+        "category": "stylish portfolio of Nirmal Silwal",
+        "image": "portfolioSS.jpg",
+        "url": "https://nirmalsilwal.github.io/#/"
+      },
+      {
+        "title": "Clean CV Design",
+        "category": "clean cv design frontend",
+        "image": "cvNirmal.jpg",
+        "url": "https://nirmalsilwal.github.io/cv/"
       }
     ]
   },
