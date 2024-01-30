@@ -55,6 +55,18 @@ class Header extends Component {
                 Contact
               </a>
             </li>
+            <li
+              className="smoothscroll"
+              onClick={() =>
+                window.open(
+                  "https://flipcartnepal.wordpress.com/blog/getting-hired-into-google-lets-make-the-dream-come-true/"
+                )
+              }
+            >
+              <a className="smoothscroll" href="#test">
+                View My Blog
+              </a>
+            </li>
           </ul>
         </nav>
 
